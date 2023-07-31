@@ -1,0 +1,13 @@
+.hero, .resume {
+    padding-block: 32px;
+}
+
+
+
+p {
+    color: lightgreen;
+}
+
+.about > .container > .about-text {
+    font-size: 2rem;
+}
